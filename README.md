@@ -1,5 +1,19 @@
 # TOKEN-CREATION-ERC-20
 
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: BANDI MADHU LATHA
+
+INTERN ID: CITS87
+
+DOMAIN: ARTIFICIAL INTELLIGENCE
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTOSH
+
+# DESCRIPTION
+
 #  Project Overview  
 
 This project demonstrates the creation and deployment of a **custom ERC-20 token** using Solidity on the Ethereum blockchain.
