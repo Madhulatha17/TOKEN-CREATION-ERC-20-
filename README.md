@@ -66,7 +66,7 @@ deployment/deployment_steps.md
 
 
 
-# 📌 Conclusion  
+#  Conclusion  
 
 This project demonstrates real-world blockchain development by creating a fully functional ERC-20 token using industry-standard OpenZeppelin contracts and deploying it on an Ethereum test network.
 
